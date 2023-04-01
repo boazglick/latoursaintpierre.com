@@ -1,5 +1,5 @@
 {
-  "baseUrl": "latoursaintpierre.ussl.co.il",
+  "baseUrl": "spider.ussl.co.il/latoursaintpierre",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
